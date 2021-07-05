@@ -1,0 +1,34 @@
+{
+  "bob": {
+    "follows": [
+      "notbob"
+    ],
+    "posts": [
+      {
+        "text": "hello",
+        "timestamp": 1625482190331
+      },
+      {
+        "text": "I love twutter!",
+        "timestamp": 1625482221351
+      },
+      {
+        "text": "I like cake.",
+        "timestamp": 1625482293785
+      },
+      {
+        "text": "hello there",
+        "timestamp": 1625482461379
+      }
+    ]
+  },
+  "notbob": {
+    "follows": [],
+    "posts": [
+      {
+        "text": "I am the best 👌. I follow nobody",
+        "timestamp": 1625482214121
+      }
+    ]
+  }
+}
